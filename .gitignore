@@ -1,0 +1,15 @@
+#Visual Studio Code workspace file and folder
+*.code-workspace
+.vscode/*
+
+#Microsoft Word file
+*.docx
+
+#Build folder
+_build/*
+
+#Todo file
+*.todo
+
+#Id file
+#*.id
