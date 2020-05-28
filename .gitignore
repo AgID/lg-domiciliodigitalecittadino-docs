@@ -11,5 +11,11 @@ _build/*
 #Todo file
 *.todo
 
-#Id file
-#*.id
+#Python file
+*.py
+
+#TXT file
+*.txt
+
+#INI file
+*.ini
