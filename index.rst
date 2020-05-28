@@ -17,10 +17,10 @@ Vai al testo delle linee guida:
 .. toctree::
    :maxdepth: 3
 
-   doc/01_introduzione
-   doc/02_indice_domicili_digitali
-   doc/03_acquisizione_pec_professionisti
-   doc/04_trasferimento_ANPR
-   doc/05_modalita_verifica
-   doc/06_ambito_utilizzo
-   doc/07_disposizioni_finali.rst
+   01_introduzione
+   02_indice_domicili_digitali
+   03_acquisizione_pec_professionisti
+   04_trasferimento_ANPR
+   05_modalita_verifica
+   06_ambito_utilizzo
+   07_disposizioni_finali.rst
