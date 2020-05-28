@@ -19,3 +19,6 @@ _build/*
 
 #INI file
 *.ini
+
+#Topicid file
+*.topicid
