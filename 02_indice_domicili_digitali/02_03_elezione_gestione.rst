@@ -66,3 +66,8 @@ Al fine di dare evidenza delle operazioni effettuate dall’utente durante le fa
 I dati della tracciatura sono associati al soggetto richiedente e inviati in conservazione. I dati sono disponibili per dieci anni dalla data di cessazione del domicilio digitale.
 
 Il sistema INAD genera altresì la tracciatura di tutte le attività di elezione, modifica e cessazione dei domicili digitali quotidianamente richieste. I relativi dati sono inviati in conservazione per i dieci anni successivi alla trasmissione al sistema di conservazione.
+
+
+.. forum_italia::
+   :topic_id: 14866
+   :scope: document

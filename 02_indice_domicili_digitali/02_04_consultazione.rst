@@ -11,3 +11,8 @@ L’accesso ai dati contenuti nell’INAD avviene attraverso l’uso di uno dei 
 - domicilio digitale: consente di ottenere il codice fiscale del soggetto o dell’ente a cui il domicilio è associato al momento della consultazione;
 - domicilio digitale, codice fiscale e data: consentono di verificare se, alla data indicata, il domicilio digitale era associato al codice fiscale indicato.
 
+
+.. forum_italia::
+   :topic_id: 14867
+   :scope: document
+

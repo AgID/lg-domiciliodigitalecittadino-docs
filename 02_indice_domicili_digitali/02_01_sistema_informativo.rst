@@ -6,3 +6,8 @@ Il sistema INAD, anche attraverso il punto di accesso telematico attivato presso
 - il domicilio digitale dei soggetti che lo hanno eletto,
 - le funzioni necessarie per la gestione del proprio domicilio digitale,
 - le istruzioni per accedere all’assistenza.
+
+
+.. forum_italia::
+   :topic_id: 14864
+   :scope: document

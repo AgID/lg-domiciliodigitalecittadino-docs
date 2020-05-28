@@ -7,3 +7,8 @@ Al fine della corretta gestione dell’INAD e dell’esecuzione delle verifiche 
 - lo stato di operatività dell’indirizzo PEC.
 
 Analoghi servizi sono messi a disposizione dai gestori dei servizi elettronici di recapito certificato qualificato.
+
+
+.. forum_italia::
+   :topic_id: 14876
+   :scope: document

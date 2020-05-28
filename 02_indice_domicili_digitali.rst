@@ -24,3 +24,8 @@ b. gli enti di diritto privato non tenuti all’iscrizione in albi professionali
    02_indice_domicili_digitali/02_08_sicurezza
    02_indice_domicili_digitali/02_09_disponibilita
    02_indice_domicili_digitali/02_10_trattamento_dati_personali
+
+
+   .. forum_italia::
+   :topic_id: 14863
+   :scope: document

@@ -6,3 +6,8 @@ Ai sensi del combinato disposto di cui all’articolo 6, par. 1, lett. e) e par.
 Il Gestore INAD designa InfoCamere S.c.p.A. quale responsabile del trattamento dei dati personali, ai sensi e per gli effetti dell’articolo 28 GDPR.
 
 L’informativa completa sul trattamento dei dati personali di cui agli articoli 13-14 del GDPR è diffusa attraverso tutti i canali utilizzabili ai fini dell’elezione di domicilio.
+
+
+.. forum_italia::
+   :topic_id: 14873
+   :scope: document

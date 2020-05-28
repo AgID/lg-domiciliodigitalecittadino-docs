@@ -34,3 +34,8 @@ La registrazione degli enti di diritto privato non tenuti all’iscrizione in al
 - assenza dell’ente di diritto privato nell’Indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi (IPA).
 
 Nel caso in cui l’ente di diritto privato risulti già presente all’interno del Registro Imprese o nell’IPA, non è consentita la registrazione al sistema INAD e, conseguentemente, è preclusa la possibilità di eleggere il domicilio digitale.
+
+
+.. forum_italia::
+   :topic_id: 14865
+   :scope: document
