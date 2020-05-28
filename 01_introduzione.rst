@@ -14,6 +14,5 @@ Le presenti Linee Guida sono state redatte sulla scorta della seguente normativa
 - Decreto Legislativo 30 giugno 2003, n. 196 recante "Codice in materia di protezione dei dati personali", come da ultimo modificato e integrato dal decreto legislativo 10 agosto 2018, n. 101 [Codice in materia di protezione dei dati personali];
 - Decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 recante “Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa” [TUDA].
 
-.. forum_italia::
-   :topic_id: 14862
-   :scope: document
+.. discourse::
+   :topic_identifier: 14862
