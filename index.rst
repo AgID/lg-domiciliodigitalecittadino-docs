@@ -12,7 +12,7 @@ Questo documento raccoglie il testo delle *linee guida dell'Indice nazionale dei
 Vai al testo delle linee guida:
 
 .. toctree::
-   doc/istruzioni_consultazione
+   istruzioni_consultazione
 
 .. toctree::
    :maxdepth: 3
