@@ -4,7 +4,7 @@ Istruzioni per la consultazione pubblica
 Informazioni sulla consultazione
 ================================
 
--  **Durata della consultazione:** da XXX a XXX
+-  **Durata della consultazione:** da 8 giugno al 10 luglio 2020
 
 -  **Settore:** ICT
 
@@ -30,4 +30,4 @@ Come partecipare
 
 Le linee guida dell'Indice nazionale dei domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel Registro Imprese sono pubblicate su `Docs Italia <http://XXXXXXX>`_ ed è possibile commentarle su `Forum Italia <https://forum.italia.it/c/documenti-in-consultazione/XXXXXXX>`_.
 
-È possibile inviare i propri commenti fino a XXX.
+È possibile inviare i propri commenti fino a 10 luglio 2020.
