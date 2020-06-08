@@ -4,7 +4,7 @@ Istruzioni per la consultazione pubblica
 Informazioni sulla consultazione
 ================================
 
--  **Durata della consultazione:** da 8 giugno al 10 luglio 2020
+-  **Durata della consultazione:** dal 8 giugno al 10 luglio 2020
 
 -  **Settore:** ICT
 

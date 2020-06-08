@@ -3,7 +3,7 @@ Indice nazionale dei domicili digitali delle persone fisiche e degli altri enti 
 
 .. admonition:: Consultazione pubblica
 
-   La consultazione pubblica per questo documento è attiva dal XX Xxxxxx XXXX al XX Xxxxxx XXXX.
+   La consultazione pubblica per questo documento è attiva dal 8 giugno al 10 luglio 2020.
 
 Questo documento raccoglie il testo delle *linee guida dell'Indice nazionale dei domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel Registro Imprese*, disponibile per la consultazione pubblica.
 
