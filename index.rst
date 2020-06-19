@@ -7,7 +7,7 @@ Indice nazionale dei domicili digitali delle persone fisiche e degli altri enti 
 
 Questo documento raccoglie il testo delle *linee guida dell'Indice nazionale dei domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel Registro Imprese*, disponibile per la consultazione pubblica.
 
-`Leggi le istruzioni per la consultazione <doc/istruzioni_consultazione.html>`_
+`Leggi le istruzioni per la consultazione <istruzioni_consultazione.html>`_
 
 Vai al testo delle linee guida:
 
