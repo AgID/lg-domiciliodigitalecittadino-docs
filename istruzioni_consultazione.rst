@@ -28,6 +28,6 @@ Le linee guida sono redatte per l’attuazione del Codice dell’Amministrazione
 Come partecipare
 ================
 
-Le linee guida dell'Indice nazionale dei domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel Registro Imprese sono pubblicate su `Docs Italia <http://XXXXXXX>`_ ed è possibile commentarle su `Forum Italia <https://forum.italia.it/c/documenti-in-consultazione/XXXXXXX>`_.
+Le linee guida dell'Indice nazionale dei domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel Registro Imprese sono pubblicate su `Docs Italia <https://docs.italia.it/AgID/domicilio-digitale/lg-domiciliodigitalecittadino-docs/it/stabile/index.html>`_ ed è possibile commentarle su `Forum Italia <https://forum.italia.it/c/documenti-in-consultazione/linee-guida-domicilio-digitale>`_.
 
 È possibile inviare i propri commenti fino a 10 luglio 2020.
