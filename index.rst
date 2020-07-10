@@ -15,6 +15,7 @@ Vai al testo delle linee guida:
    istruzioni_consultazione
 
 .. toctree::
+   :numbered:
    :maxdepth: 3
 
    01_introduzione

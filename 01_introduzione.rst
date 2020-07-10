@@ -1,5 +1,5 @@
-1. Introduzione e riferimenti normativi
-+++++++++++++++++++++++++++++++++++++++
+Introduzione e riferimenti normativi
+++++++++++++++++++++++++++++++++++++
 
 Le presenti Linee Guida, adottate ai sensi dell’articolo 71 del decreto legislativo 7 marzo 2005, n. 82 e successive modifiche e integrazioni (di seguito CAD) e della Determina AgID n. 160 del 2018 recante “Regolamento per l’adozione di linee guida per l’attuazione del Codice dell’Amministrazione Digitale”, stabiliscono le modalità di realizzazione e gestione operativa dell’Indice nazionale dei domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel Registro Imprese (di seguito indicato con l’acronimo INAD) nonché le modalità di accesso allo stesso.
 
