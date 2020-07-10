@@ -1,5 +1,5 @@
-2.1. Sistema informativo
-========================
+Sistema informativo
+===================
 
 Il sistema INAD, anche attraverso il punto di accesso telematico attivato presso la Presidenza del Consiglio dei ministri di cui all’articolo 64-bis, comma 1, del CAD, rende disponibili:
 

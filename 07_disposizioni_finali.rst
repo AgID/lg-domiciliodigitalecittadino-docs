@@ -1,5 +1,5 @@
-7. Disposizioni finali
-++++++++++++++++++++++
+Disposizioni finali
++++++++++++++++++++
 
 Le presenti Linee Guida, ai sensi degli artt. 5 e 8 del Regolamento allegato alla citata Determina AgID n. 160/2018:
 

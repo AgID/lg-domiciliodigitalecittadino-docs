@@ -1,5 +1,5 @@
-2.2. Registrazione
-==================
+Registrazione
+=============
 
 I soggetti di cui al precedente capitolo 2, lett. a) e b), che intendono eleggere il proprio domicilio digitale, devono preventivamente registrarsi al servizio INAD accedendo allo stesso mediante uno degli strumenti di identificazione informatica di cui all’articolo 64, commi 2-quater e 2-novies del CAD, ovvero:
 

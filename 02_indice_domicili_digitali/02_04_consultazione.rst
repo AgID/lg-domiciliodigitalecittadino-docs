@@ -1,5 +1,5 @@
-2.4. Consultazione dell’INAD
-============================
+Consultazione dell’INAD
+=======================
 
 La consultazione on-line dell’INAD, ai sensi dell’articolo 6-quinquies del CAD, è consentita a chiunque senza necessità di autenticazione.
 

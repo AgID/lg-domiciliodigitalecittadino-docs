@@ -1,5 +1,5 @@
-2.6. Verifica dei domicili digitali
-===================================
+Verifica dei domicili digitali
+==============================
 
 La responsabilità connessa alla comunicazione dei dati presenti nell’INAD, ivi incluso l’indirizzo elettronico, ai sensi del TUDA è in capo a ogni singolo soggetto che elegge il domicilio digitale in INAD.
 

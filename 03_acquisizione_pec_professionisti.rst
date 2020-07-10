@@ -1,5 +1,5 @@
-3. Acquisizione dall’INI-PEC degli indirizzi PEC dei professionisti
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Acquisizione dall’INI-PEC degli indirizzi PEC dei professionisti
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 L’articolo 6-quater, comma 2, del CAD prevede che il domicilio digitale dei professionisti iscritti nell’Indice nazionale dei domicili digitali delle imprese e dei professionisti (INI-PEC) sia inserito anche nell’INAD, fermo restando il diritto del professionista di eleggerne uno diverso, ai sensi dell'articolo 3-bis, comma 1-bis, e dell’articolo 6-quater, comma 2, del CAD.
 

@@ -1,5 +1,5 @@
-2. Indice dei domicili digitali
-+++++++++++++++++++++++++++++++
+Indice dei domicili digitali
+++++++++++++++++++++++++++++
 
 L’INAD è l’elenco pubblico contenente i domicili digitali eletti ai sensi dell’articolo 3-bis, commi 1-bis e 1-ter, del CAD destinati alle comunicazioni aventi valore legale effettuate dai soggetti privati o dai soggetti di cui all’articolo 2, comma 2, del CAD e, con riferimento a questi ultimi, altresì alle comunicazioni connesse al conseguimento di finalità istituzionali.
 

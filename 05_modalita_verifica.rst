@@ -1,5 +1,5 @@
-5. Definizione delle modalità di verifica dei domicili digitali
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Definizione delle modalità di verifica dei domicili digitali
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Al fine della corretta gestione dell’INAD e dell’esecuzione delle verifiche di cui al precedente paragrafo 2.6, i Gestori PEC rendono disponibili al Gestore INAD servizi che consentano di verificare:
 

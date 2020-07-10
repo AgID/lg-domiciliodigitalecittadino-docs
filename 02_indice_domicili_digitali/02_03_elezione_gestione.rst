@@ -1,5 +1,5 @@
-2.3. Elezione e Gestione del domicilio digitale
-===============================================
+Elezione e Gestione del domicilio digitale
+==========================================
 
 Completata la registrazione, i soggetti di cui al capitolo 2, lett. a) e b) utilizzano le funzionalità rese disponibili dal sistema INAD per:
 

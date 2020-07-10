@@ -1,5 +1,5 @@
-2.8. Sicurezza dei sistemi e dei dati
-=====================================
+Sicurezza dei sistemi e dei dati
+================================
 
 La gestione della sicurezza è effettuata dal Gestore INAD con procedure atte a garantire la sicurezza fisica, logica e organizzativa dei sistemi informatici nonché mediante misure tecniche e organizzative adeguate a garantire un livello di sicurezza dei dati personali adeguato al rischio, ai sensi dell’articolo 32 GDPR.
 
