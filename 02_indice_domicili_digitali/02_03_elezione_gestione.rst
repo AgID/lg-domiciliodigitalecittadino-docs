@@ -25,8 +25,8 @@ Il domicilio eletto dalle persone fisiche può essere utilizzato anche per le co
 
 Lo stesso indirizzo di PEC o di recapito certificato qualificato non può essere utilizzato da soggetti diversi come domicilio digitale.
 
-2.3.1. Ciclo di vita del domicilio digitale e aggiornamento dell’INAD
-------------------------------------------------------------------------
+Ciclo di vita del domicilio digitale e aggiornamento dell’INAD
+--------------------------------------------------------------
 
 Le fasi del ciclo di vita del domicilio digitale sono le seguenti:
 
@@ -53,8 +53,8 @@ L’INAD è aggiornato quotidianamente mediante la pubblicazione, entro le ore 0
 
 All’esito positivo della pubblicazione dell’elezione, modifica o cessazione del domicilio digitale, l’INAD invia una comunicazione recante l’esito dell’operazione e il relativo riferimento temporale, al domicilio digitale o, in caso di cessazione, all’indirizzo e-mail di contatto.
 
-2.3.2. Certificazione e storicizzazione delle operazioni sul domicilio digitale
--------------------------------------------------------------------------------
+Certificazione e storicizzazione delle operazioni sul domicilio digitale
+------------------------------------------------------------------------
 
 Al fine di dare evidenza delle operazioni effettuate dall’utente durante le fasi di elezione, modifica e cessazione del domicilio digitale, viene generata la tracciatura delle stesse operazioni, mediante registrazione, su supporto informatico:
 
